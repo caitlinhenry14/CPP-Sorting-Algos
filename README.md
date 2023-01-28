@@ -1,2 +1,2 @@
 # C++ Sorting Algorithms
-Implementing some sorting algos in C++, just for some practice. Will (hopefully) update this with more algorithms in the future.
+Implementing some sorting algos in C++, just for practice and future reference. Will (hopefully) continue to update this with various algorthms in the future.
