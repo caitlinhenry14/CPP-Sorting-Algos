@@ -34,7 +34,6 @@ void countingSort(int array[], int size, int place) {
 }
 
 void radixsort(int array[], int size) {
-  // Get maximum element
   int max = getMax(array, size);
 
   for (int place = 1; max / place > 0; place *= 10)
